@@ -1,4 +1,4 @@
-End-to-end mortgage analytics solution built in Power BI covering loan origination, borrower profiling, portfolio performance, delinquency trends, foreclosure analysis, and macroeconomic impact across 25,000 U.S. residential loans using a star schema data model and advanced DAX measures.# ![MortgageIQ Cover](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Cover_Image_Mortgage.png)
+End-to-end mortgage analytics solution built in Power BI covering loan origination, borrower profiling, portfolio performance, delinquency trends, foreclosure analysis, and macroeconomic impact across 25,000 U.S. residential loans using a star schema data model and advanced DAX measures.# ![MortgageIQ Cover](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Cover%20Image%20US%20Mort.png)
 
 # 🏠 U.S.A Mortgage Portfolio & Risk Analytics (2013–2024)
 ### **AI + Star Schema Dataset + Power BI | End-to-End Mortgage Portfolio Intelligence**
@@ -19,28 +19,28 @@ The dashboard delivers deep insights into **origination trends**, **borrower cre
 ## 🖼️ Dashboard Preview
 
 ### 🏠 Title Page — Home & Navigation
-![Title Page](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Title_Page.png)
+![Title Page](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Title.png)
 
 ### 📊 Executive Summary
-![Executive Summary](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Executive_Summary.png)
+![Executive Summary](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Executive.png)
 
 ### 📈 Origination Analysis
-![Origination Analysis](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Origination_Analysis.png)
+![Origination Analysis](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Origination.png)
 
 ### 👤 Borrower & Property
-![Borrower & Property](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Borrower_Property.png)
+![Borrower & Property](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Borrower.png)
 
 ### 📉 Portfolio Performance & Delinquency
-![Portfolio Performance](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Portfolio_Performance.png)
+![Portfolio Performance](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Delinquency.png)
 
 ### ⚠️ Foreclosure & Loss Analysis
-![Foreclosure & Loss](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Foreclosure_Loss.png)
+![Foreclosure & Loss](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Foreclosure.png)
 
 ### 🌐 Macro & Rate Environment
-![Macro & Rate](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Macro_Rate.png)
+![Macro & Rate](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Micro.png)
 
 ### 💡 Insights & Recommendations
-![Insights](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Insights_Recommendations.png)
+![Insights](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Insights.png)
 
 ---
 
@@ -223,7 +223,7 @@ CALCULATE(
 ## 📋 Dashboard Pages
 
 ### 📌 Page 1 — Title Page / Home
-![Title Page](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Title_Page.png)
+![Title Page](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Title.png)
 
 **Contains:**
 - Project title, subtitle and welcome message
@@ -236,7 +236,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 2 — Executive Summary
-![Executive Summary](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Executive_Summary.png)
+![Executive Summary](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Executive.png)
 
 **Key Visuals:**
 - 5 KPI cards: Total Loan Volume, Loans Originated, Avg Interest Rate, Prepayment Rate (CPR), Avg LTV
@@ -248,7 +248,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 3 — Origination Analysis
-![Origination Analysis](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Origination_Analysis.png)
+![Origination Analysis](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Origination.png)
 
 **Key Visuals:**
 - 4 KPI cards: Avg Loan Amount, Avg Interest Rate, Avg DTI Ratio, Purchase vs Refinance share
@@ -260,7 +260,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 4 — Borrower & Property
-![Borrower & Property](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Borrower_Property.png)
+![Borrower & Property](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Borrower.png)
 
 **Key Visuals:**
 - 4 KPI cards: Avg Credit Score, First-Time Buyer %, Avg Property Value, Investment Property %
@@ -272,7 +272,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 5 — Portfolio Performance & Delinquency
-![Portfolio Performance](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Portfolio_Performance.png)
+![Portfolio Performance](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Delinquency.png)
 
 **Key Visuals:**
 - 5 KPI cards: Active Loans, Avg Days Delinquent, Serious Delinquency Rate, Current Loan %, Total Unpaid Balance
@@ -284,7 +284,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 6 — Foreclosure & Loss Analysis
-![Foreclosure & Loss](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Foreclosure_Loss.png)
+![Foreclosure & Loss](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Foreclosure.png)
 
 **Key Visuals:**
 - 4 KPI cards: Total Foreclosures, Avg Loss Severity %, Avg Time to Foreclosure, Total Estimated Loss
@@ -296,7 +296,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 7 — Macro & Rate Environment
-![Macro & Rate](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Macro_Rate.png)
+![Macro & Rate](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Micro.png)
 
 **Key Visuals:**
 - 5 KPI cards: Latest Fed Funds Rate, Latest Mortgage Rate, HPI Growth 2013–2024, Refinance vs Purchase Share, Total Origination in Billions
@@ -308,7 +308,7 @@ CALCULATE(
 ---
 
 ### 📌 Page 8 — Insights & Recommendations
-![Insights & Recommendations](https://github.com/saheb1999/US-Mortgage-Portfolio-Risk-Analytics/blob/main/Insights_Recommendations.png)
+![Insights & Recommendations](https://github.com/saheb1999/U-S-Mortgage-Analysis-/blob/main/Insights.png)
 
 **Contains:**
 - Macro & Market Insights (4 key observations)
